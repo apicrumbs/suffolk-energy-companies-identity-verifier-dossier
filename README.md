@@ -1,5 +1,5 @@
 # 🏛️ ApiCrumbs Archive: SUFFOLK-ENERGY-COMPANIES-IDENTITY-VERIFIER-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--04--28-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/66_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--04--29-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/66_UPDATED-emerald?style=for-the-badge)
 
 📦 **Books in Shard:** 66 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
 ⚡ **Latest Press Run:** 66 printed / 225 skipped (up-to-date).
